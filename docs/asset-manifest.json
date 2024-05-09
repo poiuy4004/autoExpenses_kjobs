@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/autoExpenses_kjobs/static/css/main.45979e77.css",
+    "main.js": "/autoExpenses_kjobs/static/js/main.6353b5e3.js",
+    "index.html": "/autoExpenses_kjobs/index.html",
+    "main.45979e77.css.map": "/autoExpenses_kjobs/static/css/main.45979e77.css.map",
+    "main.6353b5e3.js.map": "/autoExpenses_kjobs/static/js/main.6353b5e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45979e77.css",
+    "static/js/main.6353b5e3.js"
+  ]
+}
